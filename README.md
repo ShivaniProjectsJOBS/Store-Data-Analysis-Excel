@@ -26,4 +26,4 @@ This project focuses on analyzing store sales data using Microsoft Excel to iden
 To analyze store performance, understand customer behavior, identify sales patterns, and generate actionable business insights.
 
 ## Dashboard Preview
-![Store Sales Dashboard](Screenshot(119).png
+![Store Sales Dashboard](Screenshot%28119%29.png)
